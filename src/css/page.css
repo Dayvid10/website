@@ -1,0 +1,147 @@
+.header{
+    padding: 2rem;
+}
+
+.mainleft{
+    /* float: left; */
+    text-align: left;
+}
+
+.row{
+    padding-left: 10%;
+}
+.header-text{
+    margin-top: 10%;
+}
+
+.htag{
+    font-weight: 700;
+    font-size: 40px;
+}
+
+span{
+    color: #7E1CFE;
+}
+.span{
+    color: #7E1CFE;
+    font-size: 24px;
+    font-weight: 600;
+}
+p{
+    font-size: 20px;
+}
+.cta-form{
+    margin-top: 10%;
+}
+
+.buttonregister{
+    margin-top: 5%;
+}
+.rethimg{
+    float: right;
+}
+
+.explainersection{
+    padding: 1rem;
+}
+.colored{
+ color: #7E1CFE;
+ text-transform: uppercase;
+}
+.coloredsmall{
+    color: #7E1CFE;
+}
+
+.cardspace{
+    /* margin-top: 10%; */
+    padding: 10%;
+}
+
+.cardimg{
+    width: 100px;
+    height: 100px;
+    
+}
+
+.colordesc{
+    color: #1DA1F2;
+}
+.bottomcard{
+    padding: 10%;
+}
+.morespace{
+    margin-bottom: 5%;
+}
+.imgretrak{
+    border-radius: 20px;
+    width: 90%;
+    height: 80%;
+}
+.ace{
+  position: relative;
+  text-align: left;
+
+
+}
+.aceline{
+    border-bottom: 2px solid #7E1CFE;
+    /* position: absolute; */
+    top: 50%;
+    width: 30%;
+    bottom: 0;
+}
+
+.acesub{
+    font-size: medium;
+    text-align: left;
+}
+
+
+.formspace{
+    margin-top: 5%;
+    padding-left: 32%;
+
+}
+.movebtn{
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+.imgboxtwo{
+    margin-top: 5%;
+}
+.footer{
+    bottom: 0;
+    position: relative;
+}
+.firstbox{
+background: #D0D0D0;
+}
+.secbox{
+    background: black;
+    color: white;
+
+}
+.footergray{
+    padding: 1rem;
+    text-align: left;
+}
+.footergraytwin{
+    padding-top: 20%;
+    text-align: left;
+}
+.footergraymedia{
+padding: 5%;
+text-align: left;
+}
+/* .footerblacktwin{
+    display: flex;
+} */
+.policy{
+   float: left;
+}
+.footerblack{
+  padding-top: 7%;
+}
+.media{
+    display: flex;
+}
